@@ -1,0 +1,59 @@
+body {
+    background-color: darkgray;
+}
+
+ 
+    
+
+.box1 {
+    margin-left: 450px;
+    width: 600px;
+    height: 350px;
+    position: absolute;
+    top: 150px;
+    background-color: white;
+}
+
+.box1 h1{
+    margin-left: 225px;
+    position: absolute;
+    top: 10px;
+}
+
+.box1 .data1{
+    margin-left: 30px;
+    position: absolute;
+    top: 70px;
+}
+.box1 .data2{
+    margin-left: 30px;
+    width: 540px;
+    height: 30px;
+    position: absolute;
+    top: 125px;
+}
+
+
+.box1 .data3{
+    margin-left: 30px;
+    position: absolute;
+    top: 170px;
+}
+.box1 .data4{
+    margin-left: 30px;
+    width: 540px;
+    height: 30px;
+    position: absolute;
+    top: 225px;
+}
+
+
+.box1 .registerbtn{
+    margin-left: 230px;
+    width: 130px;
+    height: 35px;
+    position: absolute;
+    top: 290px;
+    color: white;
+    background-color: green;
+}

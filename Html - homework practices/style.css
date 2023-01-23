@@ -1,0 +1,51 @@
+span {
+    color: blue;
+}
+
+.second-text {
+    color: red;
+}
+
+.first-text {
+    background-color: magenta;
+}
+
+#test {
+    color: black;
+}
+
+
+.box1 {
+    width: 500px;
+    height: 400px;
+    background-color: magenta;
+}
+
+.box2 {
+    width: 500px;
+    height: 400px;
+    background-color: magenta;
+}
+.box3 {
+    margin-top: 10px;
+    width: 500px;
+    height: 400px;
+    background-color: magenta;
+}
+
+
+.box1 p {
+    color: blue;
+}
+
+.box2 p {
+    color: white;
+}
+
+.box3 a .link{
+    color: white;
+}
+
+h3{
+    color: green;
+}

@@ -1,0 +1,62 @@
+.box1 {
+    margin-left: 250px;
+    width: 1000px;
+    height: 300px;
+    position: absolute;
+    background-color:brown;
+}
+.box2 {
+    margin-left: 250px;
+    width: 1000px;
+    height: 300px;
+    position: absolute;
+    margin-top: 300px;
+    background-color: goldenrod;
+}
+
+
+.box1 .data1{
+    margin-left: 300px;
+    margin-top: 110px;
+}
+
+
+.box2 .data2{
+    margin-left: 200px;
+    color: green;
+}
+
+
+.box2 .data3{
+    margin-left: 100px;
+    color: green;
+}
+
+.box2 .data4{
+    margin-left: 100px;
+    color: green;
+}
+
+.box2 .data5{
+    margin-left: 120px;
+    color: green;
+}
+
+
+.box2 h1{
+    margin-left: 10px;
+    margin-top: 60px;
+}
+.box2 .data6{
+    margin-left: 10px;
+    color: brown;
+}
+.box2 .data7{
+    margin-left: 10px;
+    color: brown;
+}
+.box2 .data8{
+    margin-left: 10px;
+    color: black;
+}
+
